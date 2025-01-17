@@ -1,0 +1,110 @@
+/* src/screens/DetailsScreen.css */
+.details-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.back-button {
+  align-self: flex-start;
+}
+
+.details-content {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+.details-image img {
+  width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.details-info {
+  max-width: 600px;
+}
+
+.details-info h1 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.details-info p {
+  font-size: 1rem;
+  line-height: 1.6;
+  margin-bottom: 10px;
+  color: #666;
+}
+
+.details-info strong {
+  color: #444;
+}
+
+.details-info div {
+  font-size: 1rem;
+  color: #444;
+}
+
+.details-info a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.details-info a:hover {
+  text-decoration: underline;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.buttons .watch-button {
+  background-color: #007bff;
+  padding: 10px 20px;
+}
+
+.buttons .watch-button:hover {
+  background-color: #0056b3;
+}
+
+.buttons .download-button {
+  background-color: #28a745;
+  padding: 10px 20px;
+}
+
+.buttons .download-button:hover {
+  background-color: #218838;
+}
+
+@media (max-width: 768px) {
+  .details-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .details-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .details-image img {
+    width: 100%;
+    max-width: 300px;
+  }
+
+  .details-info {
+    text-align: center;
+  }
+}

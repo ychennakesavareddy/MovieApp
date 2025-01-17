@@ -1,0 +1,584 @@
+[
+    {
+        "score": 0.6735734,
+        "show": {
+            "id": 12378,
+            "url": "https://www.tvmaze.com/shows/12378/bollywood-hero",
+            "name": "Bollywood Hero",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Comedy"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": null,
+            "premiered": "2009-08-06",
+            "ended": "2009-08-08",
+            "officialSite": null,
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 50,
+            "network": {
+                "id": 65,
+                "name": "IFC",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 108861,
+                "imdb": "tt1373098"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/42/105598.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/42/105598.jpg"
+            },
+            "summary": "<p>Chris Kattan is tired of being rejected as leading-man material in Hollywood. He burns his professional bridges in L.A. and ventures to India in search of a starring role in a Bollywood film. While in India, he encounters cultural differences and the realization that making it big in Bollywood is not a sure thing.</p>",
+            "updated": 1477511631,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/12378"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/591030",
+                    "name": "Part 3"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.5741676,
+        "show": {
+            "id": 52920,
+            "url": "https://www.tvmaze.com/shows/52920/death-in-bollywood",
+            "name": "Death in Bollywood",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [],
+            "status": "To Be Determined",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2021-01-11",
+            "ended": null,
+            "officialSite": "https://www.bbc.co.uk/programmes/p08xcq0m",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 43,
+            "network": null,
+            "webChannel": {
+                "id": 26,
+                "name": "BBC iPlayer",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/iplayer"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 394997,
+                "imdb": "tt13715084"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/292/731764.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/292/731764.jpg"
+            },
+            "summary": "<p>Actor Jiah Khan was found dead in her flat. Police concluded it was suicide, but her British family believe that the truth has not yet surfaced.</p>",
+            "updated": 1610487071,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/52920"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2006674",
+                    "name": "Episode 3"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.48033324,
+        "show": {
+            "id": 58987,
+            "url": "https://www.tvmaze.com/shows/58987/call-my-agent-bollywood",
+            "name": "Call My Agent Bollywood",
+            "type": "Scripted",
+            "language": "Hindi",
+            "genres": [
+                "Drama",
+                "Comedy"
+            ],
+            "status": "To Be Determined",
+            "runtime": null,
+            "averageRuntime": 44,
+            "premiered": "2021-10-29",
+            "ended": null,
+            "officialSite": "https://www.netflix.com/title/81476629",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 23,
+            "network": null,
+            "webChannel": {
+                "id": 1,
+                "name": "Netflix",
+                "country": null,
+                "officialSite": "https://www.netflix.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 410933,
+                "imdb": "tt13282662"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/375/938540.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/375/938540.jpg"
+            },
+            "summary": "<p>From pulling off casting coups to calming celebrity egos, the drama never stops for four Mumbai talent agents hustling to save their sinking company.</p>",
+            "updated": 1636982466,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/58987"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2216519",
+                    "name": "In the Dog House"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.43531704,
+        "show": {
+            "id": 43730,
+            "url": "https://www.tvmaze.com/shows/43730/hollywood",
+            "name": "Hollywood",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama"
+            ],
+            "status": "Ended",
+            "runtime": null,
+            "averageRuntime": 50,
+            "premiered": "2020-05-01",
+            "ended": "2020-05-01",
+            "officialSite": "https://www.netflix.com/title/81088617",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": 7.1
+            },
+            "weight": 61,
+            "network": null,
+            "webChannel": {
+                "id": 1,
+                "name": "Netflix",
+                "country": null,
+                "officialSite": "https://www.netflix.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 375503,
+                "imdb": "tt9827854"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/242/606324.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/242/606324.jpg"
+            },
+            "summary": "<p>In post-World War II Hollywood, an ambitious group of aspiring actors and filmmakers will do almost anything to make their showbiz dreams come true.</p>",
+            "updated": 1678643321,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/43730"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1829787",
+                    "name": "A Hollywood Ending"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.42852885,
+        "show": {
+            "id": 61544,
+            "url": "https://www.tvmaze.com/shows/61544/fabulous-lives-of-bollywood-wives",
+            "name": "Fabulous Lives of Bollywood Wives",
+            "type": "Reality",
+            "language": "Hindi",
+            "genres": [],
+            "status": "Running",
+            "runtime": null,
+            "averageRuntime": 38,
+            "premiered": "2020-11-27",
+            "ended": null,
+            "officialSite": "https://www.netflix.com/title/81180964",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 18,
+            "network": null,
+            "webChannel": {
+                "id": 1,
+                "name": "Netflix",
+                "country": null,
+                "officialSite": "https://www.netflix.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 391863,
+                "imdb": "tt13452100"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/403/1009304.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/403/1009304.jpg"
+            },
+            "summary": "<p>Cameras follow the banter and bonding between four fun-loving women from Bollywood's inner circle as they juggle professions, family and friendship.</p>",
+            "updated": 1729239457,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/61544"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/3030508",
+                    "name": "A Tale Of Two Cities"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.41126856,
+        "show": {
+            "id": 38218,
+            "url": "https://www.tvmaze.com/shows/38218/bollywood-the-worlds-biggest-film-industry",
+            "name": "Bollywood: The World's Biggest Film Industry",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "2018-08-13",
+            "ended": "2018-08-20",
+            "officialSite": "https://www.bbc.co.uk/programmes/b0bgbsh2",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 21,
+            "network": {
+                "id": 37,
+                "name": "BBC Two",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/bbctwo"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 351423,
+                "imdb": "tt8558778"
+            },
+            "image": null,
+            "summary": "<p>Anita Rani has exclusive access to the largest Bollywood films and stars to reveal the extraordinary stories and secrets behind the biggest film industry on earth.</p>",
+            "updated": 1591580280,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/38218"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1513045",
+                    "name": "Episode 2"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.40958786,
+        "show": {
+            "id": 73608,
+            "url": "https://www.tvmaze.com/shows/73608/sally-bollywood-super-detective",
+            "name": "Sally Bollywood: Super Detective",
+            "type": "Animation",
+            "language": "English",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 15,
+            "averageRuntime": 15,
+            "premiered": "2010-08-14",
+            "ended": "2014-02-26",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Tuesday",
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 6,
+            "network": {
+                "id": 251,
+                "name": "Seven Network",
+                "country": {
+                    "name": "Australia",
+                    "code": "AU",
+                    "timezone": "Australia/Sydney"
+                },
+                "officialSite": "https://7plus.com.au/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 159201,
+                "imdb": "tt1791225"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/495/1238936.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/495/1238936.jpg"
+            },
+            "summary": "<p>Sally Bollywood is a 12-year-old girl who, with the help of her neighbour and best friend Doowee, runs a detective agency called S.B.I. - \"Sally Bollywood Investigations.\" Operating out of the Bollywoods' basement, Sally and Doowee make an ideal team. Thanks to Doowee's analytical brain and super gadgets, combined with Sally's detecting and Kalarypayatt skills, the S.B.I. can always solve even the toughest of mysteries!</p>",
+            "updated": 1704794668,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/73608"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2720502",
+                    "name": "All Made Up"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.39753613,
+        "show": {
+            "id": 15540,
+            "url": "https://www.tvmaze.com/shows/15540/paul-hollywood-city-bakes",
+            "name": "Paul Hollywood: City Bakes",
+            "type": "Reality",
+            "language": "English",
+            "genres": [
+                "Food",
+                "Travel"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 54,
+            "premiered": "2016-04-18",
+            "ended": "2017-05-22",
+            "officialSite": "http://www.foodnetwork.co.uk/tv-shows/paul-hollywood-city-bakes.html",
+            "schedule": {
+                "time": "21:00",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 40,
+            "network": {
+                "id": 649,
+                "name": "Food Network",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 310726,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/125/314987.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/125/314987.jpg"
+            },
+            "summary": "<p>Paul Hollywood rekindles his baking roots as he travels the globe in search of the family bakeries, corner delis and luxury hotels which have created the baking heritage of entire cities. During these city breaks, Paul is inspired once again to produce delicious recipes in the very place they originated as he goes \"back to the floor\" in hotel kitchens, rediscovers family recipes and meets new baking heroes from around the world.</p>",
+            "updated": 1642784038,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/15540"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1160454",
+                    "name": "Cape Town"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.392615,
+        "show": {
+            "id": 42367,
+            "url": "https://www.tvmaze.com/shows/42367/hollywood",
+            "name": "Hollywood",
+            "type": "Documentary",
+            "language": "English",
+            "genres": [
+                "History"
+            ],
+            "status": "Ended",
+            "runtime": 60,
+            "averageRuntime": 60,
+            "premiered": "1980-01-08",
+            "ended": "1980-04-01",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Tuesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 29,
+            "network": {
+                "id": 12,
+                "name": "BBC One",
+                "country": {
+                    "name": "United Kingdom",
+                    "code": "GB",
+                    "timezone": "Europe/London"
+                },
+                "officialSite": "https://www.bbc.co.uk/bbcone"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 186061,
+                "imdb": "tt0080230"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/200/500020.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/200/500020.jpg"
+            },
+            "summary": "<p><b>Hollywood</b> follows the rise and fall of the American silent film industry. Each episode focuses on a different aspect of silent film history and production. Several silent film makers - stars, writers, directors, producers, stunt-men and crew - and their family and friends are interviewed. Also included are hundreds of film clips and behind-the-scene photographs, how-did-they-do-that spoilers and lots of trivia.</p>",
+            "updated": 1643173931,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/42367"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1662812",
+                    "name": "End of an Era"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.38022918,
+        "show": {
+            "id": 76569,
+            "url": "https://www.tvmaze.com/shows/76569/hollywood-squares",
+            "name": "Hollywood Squares",
+            "type": "Game Show",
+            "language": "English",
+            "genres": [],
+            "status": "Running",
+            "runtime": 30,
+            "averageRuntime": 34,
+            "premiered": "2025-01-16",
+            "ended": null,
+            "officialSite": "https://www.cbs.com/shows/hollywood-squares/",
+            "schedule": {
+                "time": "22:00",
+                "days": [
+                    "Wednesday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 94,
+            "network": {
+                "id": 2,
+                "name": "CBS",
+                "country": {
+                    "name": "United States",
+                    "code": "US",
+                    "timezone": "America/New_York"
+                },
+                "officialSite": "https://www.cbs.com/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 449709,
+                "imdb": "tt32268798"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/547/1369930.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/547/1369930.jpg"
+            },
+            "summary": "<p><b>Hollywood Squares </b>involves two contestants who play tic-tac-toe to win money and prizes. The \"board\" for the game is a vertical stack of open-faced cubes, each occupied by a celebrity seated at a desk and facing the contestants. The celebrities are asked questions and the contestants judge the legitimacy of their answers to win the game.</p>",
+            "updated": 1737049314,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/76569"
+                },
+                "nextepisode": {
+                    "href": "https://api.tvmaze.com/episodes/3052076",
+                    "name": "It's a Dysfunctional Family Show"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,41 @@
+/* src/components/MovieCard.css */
+.movie-card {
+  width: 100%;
+  max-width: 180px; /* Decreased width */
+  margin: 10px; /* Adjusted margin */
+  border-radius: 10px; /* Added border radius */
+  overflow: hidden; /* Ensure content respects border radius */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Added shadow */
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+.movie-card-link {
+  text-decoration: none;
+  color: inherit;
+  display: flex; /* Ensure the link covers the entire card */
+  flex-direction: column; /* Stack image and content vertically */
+  height: 100%;
+}
+
+.movie-card img {
+  width: 100%;
+  height: auto; /* Allow image to adjust its height */
+  object-fit: cover; /* Ensure the image covers the container */
+}
+
+.movie-card-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px; /* Adjusted padding */
+  text-align: center;
+  background-color: #fff; /* Added background color */
+  color: #333; /* Added text color */
+  font-weight: bold; /* Made text bold */
+  flex-grow: 1; /* Ensures content takes the remaining space */
+}

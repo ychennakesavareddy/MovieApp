@@ -1,0 +1,607 @@
+[
+    {
+        "score": 0.41763878,
+        "show": {
+            "id": 78507,
+            "url": "https://www.tvmaze.com/shows/78507/bigg-boss-telugu",
+            "name": "Bigg Boss Telugu",
+            "type": "Reality",
+            "language": "Telugu",
+            "genres": [],
+            "status": "Running",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": null,
+            "ended": null,
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday",
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 1,
+            "network": {
+                "id": 1998,
+                "name": "Star Maa",
+                "country": {
+                    "name": "India",
+                    "code": "IN",
+                    "timezone": "Asia/Kolkata"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/528/1320324.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/528/1320324.jpg"
+            },
+            "summary": "<p><b>Bigg Boss Telugu </b>is the Telugu-language version of the reality TV programme <i>Bigg Boss</i> and it follows the <i>Big Brother </i>format.</p>",
+            "updated": 1721418607,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/78507"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.38365382,
+        "show": {
+            "id": 74673,
+            "url": "https://www.tvmaze.com/shows/74673/hostel-days",
+            "name": "Hostel Days",
+            "type": "Scripted",
+            "language": "Telugu",
+            "genres": [
+                "Comedy"
+            ],
+            "status": "To Be Determined",
+            "runtime": null,
+            "averageRuntime": 34,
+            "premiered": "2023-07-13",
+            "ended": null,
+            "officialSite": "https://www.primevideo.com/detail/Hostel-Days-Telugu/0JV5DHR0ETGXOJNHQPD28DBI2T",
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 3,
+            "network": null,
+            "webChannel": {
+                "id": 3,
+                "name": "Prime Video",
+                "country": null,
+                "officialSite": "https://www.primevideo.com"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 437294,
+                "imdb": "tt28306899"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/504/1260651.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/504/1260651.jpg"
+            },
+            "summary": "<p>Set in an engineering college hostel, <b>Hostel Days</b> follows the life of Six engineering students and their struggles with friendship, identity, love, life and academics.</p>",
+            "updated": 1707946147,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/74673"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2769884",
+                    "name": "M1 Exam"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.3807372,
+        "show": {
+            "id": 75959,
+            "url": "https://www.tvmaze.com/shows/75959/masterchef-india-telugu",
+            "name": "MasterChef India – Telugu",
+            "type": "Reality",
+            "language": "Telugu",
+            "genres": [],
+            "status": "To Be Determined",
+            "runtime": null,
+            "averageRuntime": null,
+            "premiered": "2021-08-27",
+            "ended": null,
+            "officialSite": "https://www.sonyliv.com/shows/masterchef-india-telugu-1700001331",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 0,
+            "network": null,
+            "webChannel": {
+                "id": 405,
+                "name": "SonyLIV",
+                "country": {
+                    "name": "India",
+                    "code": "IN",
+                    "timezone": "Asia/Kolkata"
+                },
+                "officialSite": "https://www.sonyliv.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/515/1289432.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/515/1289432.jpg"
+            },
+            "summary": "<p><b>MasterChef India – Telugu</b> is an Indian Telugu-language competitive cooking reality show based on MasterChef and is part of MasterChef India.</p>",
+            "updated": 1717764475,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/75959"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2890072",
+                    "name": "Episode 35"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.29489988,
+        "show": {
+            "id": 68657,
+            "url": "https://www.tvmaze.com/shows/68657/teluh-darah",
+            "name": "Teluh Darah",
+            "type": "Scripted",
+            "language": "Indonesian",
+            "genres": [
+                "Horror",
+                "Mystery",
+                "Supernatural"
+            ],
+            "status": "Ended",
+            "runtime": null,
+            "averageRuntime": 45,
+            "premiered": "2023-02-25",
+            "ended": "2023-04-29",
+            "officialSite": "https://www.hotstar.com/id/tv/teluh-darah/1260126026",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Saturday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 51,
+            "network": null,
+            "webChannel": {
+                "id": 164,
+                "name": "Disney+ Hotstar",
+                "country": {
+                    "name": "India",
+                    "code": "IN",
+                    "timezone": "Asia/Kolkata"
+                },
+                "officialSite": null
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 430461,
+                "imdb": "tt16676408"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/460/1150965.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/460/1150965.jpg"
+            },
+            "summary": "<p>The families of two people are terrorized by black magic attacks. To protect their loved ones, they go after the culprit behind the mystical events</p>",
+            "updated": 1686703894,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/68657"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2544563",
+                    "name": "Hutang Darah"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.25696403,
+        "show": {
+            "id": 19875,
+            "url": "https://www.tvmaze.com/shows/19875/after-the-deluge",
+            "name": "After the Deluge",
+            "type": "Scripted",
+            "language": "English",
+            "genres": [
+                "Drama"
+            ],
+            "status": "Ended",
+            "runtime": 120,
+            "averageRuntime": 120,
+            "premiered": "2003-06-15",
+            "ended": "2003-06-16",
+            "officialSite": null,
+            "schedule": {
+                "time": "20:30",
+                "days": [
+                    "Monday",
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 32,
+            "network": {
+                "id": 149,
+                "name": "Network 10",
+                "country": {
+                    "name": "Australia",
+                    "code": "AU",
+                    "timezone": "Australia/Sydney"
+                },
+                "officialSite": "https://10play.com.au/"
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 164191,
+                "imdb": "tt0304983"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/70/175624.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/70/175624.jpg"
+            },
+            "summary": "<p><b>After the Deluge</b> weaves together the lives of four ordinary men at a critical time in their family history. The patriarch, Cliff is suffering from Alzheimer's and is reliving his buried memories of WWII. His three sons - Alex, Martin and Toby - reluctantly draw together to care for him. In attempting to define themselves in a post feminist world, Cliff's sons struggle to come to terms with the roles they have played as brothers, sons and men. Alex, the troubled middle child, is in turmoil with the collapse of a long marriage and the subsequent battle for his children and a new identity. His elder brother Martin, a wild boy musician has eschewed his remarkable musical talent for a now dwindling pop fame. And Toby, their younger brother, the forgotten child, hides in the suburbs too frightened to accept that his ideal of a family will never be realized. When the war of words quietens, it is music which offers a respite and reconciles the brothers to the loss of a father they could never be good enough for.</p>",
+            "updated": 1638177620,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/19875"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/888541",
+                    "name": "Part 2"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.24336314,
+        "show": {
+            "id": 42718,
+            "url": "https://www.tvmaze.com/shows/42718/my-beluga-boyfriend",
+            "name": "My Beluga Boyfriend",
+            "type": "Scripted",
+            "language": "Chinese",
+            "genres": [
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "status": "Ended",
+            "runtime": 40,
+            "averageRuntime": 40,
+            "premiered": "2019-06-19",
+            "ended": "2019-06-19",
+            "officialSite": "https://www.iqiyi.com/a_19rrhr6ek9.html",
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Wednesday",
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 26,
+            "network": null,
+            "webChannel": {
+                "id": 67,
+                "name": "iQIYI",
+                "country": null,
+                "officialSite": "https://www.iq.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 365576,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/202/506932.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/202/506932.jpg"
+            },
+            "summary": "<p>Two people who meet by chance uncover conspiracies from the past. How will they choose between love and doing what's right?<br /><br />As Meng Yao and Sheng Wei Yin get to know each other, they begin to unravel an earth-shattering conspiracy from five years ago. It involves an ex-boyfriend that went missing mysteriously and an intellectually superior green-eyed beluga. The couple who slowly fall for each other find themselves at the center of the schemes.</p>",
+            "updated": 1605991090,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/42718"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1904203",
+                    "name": "Episode 24"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.22284055,
+        "show": {
+            "id": 49026,
+            "url": "https://www.tvmaze.com/shows/49026/karasu-tengu-kabuto",
+            "name": "Karasu Tengu Kabuto",
+            "type": "Animation",
+            "language": "Japanese",
+            "genres": [
+                "Action",
+                "Adventure",
+                "Anime"
+            ],
+            "status": "Ended",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "1990-07-29",
+            "ended": "1991-06-16",
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": [
+                    "Sunday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 22,
+            "network": {
+                "id": 281,
+                "name": "NHK",
+                "country": {
+                    "name": "Japan",
+                    "code": "JP",
+                    "timezone": "Asia/Tokyo"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 197971,
+                "imdb": "tt0144719"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/263/659336.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/263/659336.jpg"
+            },
+            "summary": null,
+            "updated": 1593658486,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/49026"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/1896554",
+                    "name": "Perished in the Moon"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.22280103,
+        "show": {
+            "id": 12010,
+            "url": "https://www.tvmaze.com/shows/12010/terug-naar-eigen-land",
+            "name": "Terug naar eigen land",
+            "type": "Documentary",
+            "language": "Dutch",
+            "genres": [],
+            "status": "Ended",
+            "runtime": 50,
+            "averageRuntime": 51,
+            "premiered": "2016-03-03",
+            "ended": "2016-04-14",
+            "officialSite": "http://vier.be/terugnaareigenland",
+            "schedule": {
+                "time": "20:35",
+                "days": [
+                    "Thursday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 27,
+            "network": {
+                "id": 381,
+                "name": "Play4",
+                "country": {
+                    "name": "Belgium",
+                    "code": "BE",
+                    "timezone": "Europe/Brussels"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": null,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/50/126776.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/50/126776.jpg"
+            },
+            "summary": "",
+            "updated": 1474196704,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/12010"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/932939",
+                    "name": "Aflevering 7"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.21248741,
+        "show": {
+            "id": 70991,
+            "url": "https://www.tvmaze.com/shows/70991/scam-2003-the-telgi-story",
+            "name": "Scam 2003: The Telgi Story",
+            "type": "Scripted",
+            "language": "Hindi",
+            "genres": [
+                "Drama",
+                "Crime"
+            ],
+            "status": "To Be Determined",
+            "runtime": null,
+            "averageRuntime": 39,
+            "premiered": "2023-09-01",
+            "ended": null,
+            "officialSite": null,
+            "schedule": {
+                "time": "",
+                "days": []
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 27,
+            "network": null,
+            "webChannel": {
+                "id": 405,
+                "name": "SonyLIV",
+                "country": {
+                    "name": "India",
+                    "code": "IN",
+                    "timezone": "Asia/Kolkata"
+                },
+                "officialSite": "https://www.sonyliv.com/"
+            },
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 436591,
+                "imdb": "tt28804856"
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/475/1188288.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/475/1188288.jpg"
+            },
+            "summary": "<p>'Scam 2003' is based on true events and traces Abdul Karim Telgi's rise from fruit seller to the kingpin of the stamp paper scam. Fueled by greed, Telgi dominates the stamp paper market through corruption, while carefully maintaining a low profile. But for how long can he evade the clutches of the law? The biographical financial thriller is helmed by Hansal Mehta and stars Gagan Dev Riar in the titular role.</p>",
+            "updated": 1717246305,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/70991"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2697577",
+                    "name": "Truth Serum"
+                }
+            }
+        }
+    },
+    {
+        "score": 0.1834896,
+        "show": {
+            "id": 50233,
+            "url": "https://www.tvmaze.com/shows/50233/kl2020-terug-in-de-lucht",
+            "name": "KL2020: Terug in de Lucht",
+            "type": "Documentary",
+            "language": "Dutch",
+            "genres": [],
+            "status": "Running",
+            "runtime": 30,
+            "averageRuntime": 30,
+            "premiered": "2020-08-31",
+            "ended": null,
+            "officialSite": "https://www.rtlxl.nl/programma/kl2020-terug-in-de-lucht/5a22797f-844c-389d-bf22-b30d21ddb196",
+            "schedule": {
+                "time": "21:30",
+                "days": [
+                    "Monday"
+                ]
+            },
+            "rating": {
+                "average": null
+            },
+            "weight": 17,
+            "network": {
+                "id": 112,
+                "name": "RTL4",
+                "country": {
+                    "name": "Netherlands",
+                    "code": "NL",
+                    "timezone": "Europe/Amsterdam"
+                },
+                "officialSite": null
+            },
+            "webChannel": null,
+            "dvdCountry": null,
+            "externals": {
+                "tvrage": null,
+                "thetvdb": 387404,
+                "imdb": null
+            },
+            "image": {
+                "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/272/680239.jpg",
+                "original": "https://static.tvmaze.com/uploads/images/original_untouched/272/680239.jpg"
+            },
+            "summary": "<p>What does KLM do to survive the Covid-19 pandemic? And how will they find their path to recovery? In <b>KL2020: Terug in de Lucht </b>ten KLM employees will tell their personal story. From towing service to management, from the cabin to operations: despite everything, the involvement and enthusiasm of the staff remains unabated. At the same time, their experiences are recognizable to many.</p>",
+            "updated": 1617985109,
+            "_links": {
+                "self": {
+                    "href": "https://api.tvmaze.com/shows/50233"
+                },
+                "previousepisode": {
+                    "href": "https://api.tvmaze.com/episodes/2066635",
+                    "name": "Episode 6"
+                }
+            }
+        }
+    }
+]

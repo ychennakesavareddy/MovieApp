@@ -1,0 +1,68 @@
+/* App.css */
+
+nav {
+  background-color: #333;
+  padding: 0.5rem; /* Reduced padding */
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 0.5rem; /* Reduced margin */
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.sub-navigation {
+  margin-bottom: 1rem;
+}
+
+.sub-navigation ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.sub-navigation ul li {
+  margin: 0 0.5rem; /* Reduced margin */
+}
+
+.sub-navigation ul li a {
+  color: #333;
+  text-decoration: none;
+}
+
+.sub-navigation ul li a:hover {
+  text-decoration: underline;
+}
+
+.search-bar {
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.movies-list, .shows-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.movie-card, .show-card {
+  width: 30%;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}

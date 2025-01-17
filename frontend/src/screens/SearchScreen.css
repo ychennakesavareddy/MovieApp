@@ -1,0 +1,41 @@
+.search-screen {
+  background-color: #111;
+  color: #fff;
+  padding: 20px;
+}
+
+.search-screen form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.search-screen input {
+  padding: 10px;
+  font-size: 1em;
+  border: none;
+  border-radius: 5px;
+  width: 250px;
+  margin-right: 10px;
+}
+
+.search-screen button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #e50914;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.search-screen button:hover {
+  background-color: #b20710;
+}
+
+.search-results {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}

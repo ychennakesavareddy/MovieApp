@@ -1,0 +1,8 @@
+/* src/components/MovieModal.css */
+.movie-player {
+  margin-top: 20px;
+}
+
+video {
+  border-radius: 10px;
+}
